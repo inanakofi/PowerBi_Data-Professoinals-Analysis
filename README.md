@@ -1,0 +1,3 @@
+# PowerBi_Data-Professoinals-Analysis
+
+Executive dashboard of the analysis of survey of Data professionals based on location, salary, Sex, Roles, etc...
